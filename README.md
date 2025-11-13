@@ -5,6 +5,7 @@ Este repositório contém um trabalho de Verificação e Validação de Software
 O trabalho foi desenvolvido com o auxílio das seguintes ferramentas:
 *   Selenium IDE
 *   Gemini
+    - Utilizado para corrigir problemas e deixar os testes gerados pelo Selenium IDE mais precisos.
 
 ## Teste
 
