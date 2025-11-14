@@ -9,3 +9,4 @@ htmlcov/
 target/
 surefire-reports/
 
+*.png
